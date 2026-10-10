@@ -1,0 +1,16 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Personal export data and browser state
+data/
+browser-profile/
+playwright/.auth/
+
+# Local tooling
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+.codex/

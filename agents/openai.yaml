@@ -1,0 +1,3 @@
+interface:
+  display_name: "NetEase Playlist Sync"
+  short_description: "Export and sync NetEase Cloud Music playlists safely"
